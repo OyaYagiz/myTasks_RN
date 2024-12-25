@@ -39,4 +39,4 @@ This app allows users to manage their tasks. You can add, edit, delete, and trac
    npx react-native run-android
    ```
 
-![](output.gif)
+![](myTask.gif)
